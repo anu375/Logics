@@ -13,7 +13,7 @@ public class Palindrome
 		
 		if(str.equals(reversed))
 		{
-			System.out.println("Palindrome");
+			System.out.println("Palindrome : "+str);
 		}
 		else
 		{
